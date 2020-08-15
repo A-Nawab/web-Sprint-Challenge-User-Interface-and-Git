@@ -59,6 +59,14 @@ a{
     color: black;
 }
 
+button, .butstyle {
+background-color: white;
+border-radius: 1.6 rem;
+font-size: .9 rem;
+border-style: solid;
+border-color: black;
+}
+
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
@@ -254,4 +262,5 @@ footer nav a {
     margin: 0 auto;
 
 }
+
 
